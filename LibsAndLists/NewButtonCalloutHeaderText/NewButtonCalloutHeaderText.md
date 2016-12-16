@@ -1,7 +1,9 @@
 # Header Text in New Button Callout
 #### Description
 #### Before
+![Before - Header Text in New Button Callout](NewButtonCalloutHeaderText-Before.PNG)
 #### After
+![After - Header Text in New Button Callout](NewButtonCalloutHeaderText-After.PNG)
 #### Snippet
 ```css
 h2[id^="cojs-newdocWOPI"].js-callout-title {
