@@ -1,4 +1,3 @@
-### SharePoint Style Snippets > Document Libraries and Lists
 # Header Text in New Button Callout
 #### Description
 #### Before
