@@ -1,2 +1,1 @@
-# SPStyleSnippets
-SharePoint Style Snippets
+# SharePoint Style Snippets
