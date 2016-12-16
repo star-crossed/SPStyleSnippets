@@ -7,8 +7,9 @@
 ```css
 .ms-newdoc-callout-main hr,
 a[id^="js-newdocWOPI-divFolder"] {
-	display: none !important;
+	display: none;
 }
 ```
+
 #### Applies To
 SharePoint Online
